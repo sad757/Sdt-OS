@@ -1,0 +1,9 @@
+# Binaries compiled
+lab1/parent
+lab1/child
+*.o
+
+# Editors
+.vscode/
+*.swp
+*~
