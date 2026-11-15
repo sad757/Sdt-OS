@@ -1,6 +1,12 @@
 # Binaries compiled
 lab1/parent
 lab1/child
+lab2/determinant
+lab3/parent
+lab3/child
+
+# Generated files
+mmap_file
 *.o
 
 # Editors
