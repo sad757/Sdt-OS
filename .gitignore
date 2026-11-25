@@ -4,6 +4,11 @@ lab1/child
 lab2/determinant
 lab3/parent
 lab3/child
+lab4/prog1_lib1
+lab4/prog1_lib2
+lab4/prog2
+lab4/lib1.so
+lab4/lib2.so
 
 # Generated files
 mmap_file
